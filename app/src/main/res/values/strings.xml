@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tuition Finder</string>
+    <string-array name="areas">
+        <item>...</item>
+        <item>Zindabazar</item>
+        <item>Uposhohor</item>
+        <item>Bondor</item>
+        <item>Pathantula</item>
+        <item>tilagor</item>
+        <item>mirabazar</item>
+    </string-array>
+    <string-array name="grades">
+        <item>...</item>
+        <item>Class 1-5</item>
+        <item>Class 5-10</item>
+        <item>College</item>
+        <item>University</item>
+
+
+    </string-array>
+</resources>
